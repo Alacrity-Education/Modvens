@@ -1,0 +1,102 @@
+{
+  "part_name": "FFC3A20-15-G_REVA1",
+  "library_name": "Project_Components",
+  "symbol_library_name": "Project_Components",
+  "footprint_library_name": "Project_Components",
+  "project_root": "/home/ilinca/Documents/Projects/Modvens/CAD/modvens",
+  "source_zip": "/home/ilinca/Downloads/FFC3A20-15-G_REVA1.zip",
+  "imported_at": "2026-11-15T23:55:57",
+  "imported_assets": {
+    "selected_symbol_library": "/home/ilinca/Documents/Projects/Modvens/CAD/modvens/libraries/Project_Components.kicad_sym",
+    "selected_footprint_library": "/home/ilinca/Documents/Projects/Modvens/CAD/modvens/libraries/Project_Components.pretty",
+    "selected_model_library": "/home/ilinca/Documents/Projects/Modvens/CAD/modvens/libraries/3dmodels",
+    "symbol_libraries": [
+      "/home/ilinca/Documents/Projects/Modvens/CAD/modvens/libraries/Project_Components.kicad_sym"
+    ],
+    "source_symbol_libraries": [
+      "FFC3A20-15-G_REVA1.kicad_sym"
+    ],
+    "merged_symbols": [
+      {
+        "target_symbol_library": "/home/ilinca/Documents/Projects/Modvens/CAD/modvens/libraries/Project_Components.kicad_sym",
+        "merged_symbol_names": [
+          "FFC3A20-15-G_REVA1"
+        ],
+        "replaced_existing_symbols": [],
+        "updated": true,
+        "message": "Merged 1 symbol(s)."
+      }
+    ],
+    "footprints": [
+      "/home/ilinca/Documents/Projects/Modvens/CAD/modvens/libraries/Project_Components.pretty/GCT_FFC3A20-15-G_REVA1.kicad_mod"
+    ],
+    "models_3d": [],
+    "datasheets": [],
+    "source_zip": "/home/ilinca/Documents/Projects/Modvens/CAD/modvens/libraries/source_zips/FFC3A20-15-G_REVA1_FFC3A20-15-G_REVA1.zip",
+    "metadata": null,
+    "3d_path_fix": {
+      "updated_footprints": [],
+      "skipped_footprints": [
+        "/home/ilinca/Documents/Projects/Modvens/CAD/modvens/libraries/Project_Components.pretty/GCT_FFC3A20-15-G_REVA1.kicad_mod"
+      ],
+      "available_models": [],
+      "model_matches": []
+    },
+    "library_table_update": {
+      "footprint_table_updated": false,
+      "symbol_tables_updated": [],
+      "symbol_tables_skipped": [
+        "/home/ilinca/Documents/Projects/Modvens/CAD/modvens/libraries/Project_Components.kicad_sym"
+      ]
+    },
+    "symbol_footprint_link": [
+      {
+        "symbol_library": "/home/ilinca/Documents/Projects/Modvens/CAD/modvens/libraries/Project_Components.kicad_sym",
+        "updated": true,
+        "symbol_name": "FFC3A20-15-G_REVA1",
+        "default_footprint": "Project_Components:GCT_FFC3A20-15-G_REVA1",
+        "footprint_filters": [
+          "Project_Components:GCT_FFC3A20-15-G_REVA1"
+        ],
+        "ki_fp_filters_value": "Project_Components:GCT_FFC3A20-15-G_REVA1",
+        "filter_mode": "exact",
+        "include_default_in_filters": true,
+        "available_footprints": [
+          "Project_Components:GCT_FFC3A20-15-G_REVA1"
+        ]
+      }
+    ],
+    "symbol_style_update": {
+      "symbol_library": "/home/ilinca/Documents/Projects/Modvens/CAD/modvens/libraries/Project_Components.kicad_sym",
+      "updated": true,
+      "styled_symbol_names": [
+        "FFC3A20-15-G_REVA1"
+      ],
+      "style": {
+        "line_width_mm": 0.254,
+        "line_color": "#840000",
+        "fill_mode": "kicad_default",
+        "fill_color": "#FFFFC2",
+        "font_size_mm": 1.27,
+        "pin_length_mm": 2.54,
+        "use_default_colors": true
+      }
+    },
+    "backups": [
+      "/home/ilinca/Documents/Projects/Modvens/CAD/modvens/libraries/backups/2026-11-15_23-55-57/libraries/Project_Components.kicad_sym",
+      "/home/ilinca/Documents/Projects/Modvens/CAD/modvens/libraries/backups/2026-11-15_23-55-57/libraries/Project_Components.kicad_sym",
+      "/home/ilinca/Documents/Projects/Modvens/CAD/modvens/libraries/backups/2026-11-15_23-55-57/libraries/Project_Components.kicad_sym",
+      "/home/ilinca/Documents/Projects/Modvens/CAD/modvens/libraries/backups/2026-11-15_23-55-57/libraries/Project_Components.pretty/GCT_FFC3A20-15-G_REVA1.kicad_mod",
+      "/home/ilinca/Documents/Projects/Modvens/CAD/modvens/libraries/backups/2026-11-15_23-55-57/fp-lib-table",
+      "/home/ilinca/Documents/Projects/Modvens/CAD/modvens/libraries/backups/2026-11-15_23-55-57/sym-lib-table"
+    ],
+    "skipped_existing": false,
+    "existing_assets": {
+      "already_exists": false,
+      "source_symbol_names": [
+        "FFC3A20-15-G_REVA1"
+      ],
+      "existing_footprints": []
+    }
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "part_name": "1-1734248-5",
+  "library_name": "Project_Components",
+  "symbol_library_name": "Project_Components",
+  "footprint_library_name": "Project_Components",
+  "project_root": "/home/ilinca/Documents/Projects/Modvens/CAD/modvens",
+  "source_zip": "/home/ilinca/Downloads/LIB_1-1734248-5.zip",
+  "imported_at": "2026-11-15T23:30:18",
+  "imported_assets": {
+    "selected_symbol_library": "/home/ilinca/Documents/Projects/Modvens/CAD/modvens/libraries/Project_Components.kicad_sym",
+    "selected_footprint_library": "/home/ilinca/Documents/Projects/Modvens/CAD/modvens/libraries/Project_Components.pretty",
+    "selected_model_library": "/home/ilinca/Documents/Projects/Modvens/CAD/modvens/libraries/3dmodels",
+    "symbol_libraries": [
+      "/home/ilinca/Documents/Projects/Modvens/CAD/modvens/libraries/Project_Components.kicad_sym"
+    ],
+    "source_symbol_libraries": [
+      "1-1734248-5/KiCad/1-1734248-5.kicad_sym"
+    ],
+    "merged_symbols": [
+      {
+        "target_symbol_library": "/home/ilinca/Documents/Projects/Modvens/CAD/modvens/libraries/Project_Components.kicad_sym",
+        "merged_symbol_names": [
+          "1-1734248-5"
+        ],
+        "replaced_existing_symbols": [],
+        "updated": true,
+        "message": "Merged 1 symbol(s)."
+      }
+    ],
+    "footprints": [
+      "/home/ilinca/Documents/Projects/Modvens/CAD/modvens/libraries/Project_Components.pretty/117342485.kicad_mod"
+    ],
+    "models_3d": [
+      "/home/ilinca/Documents/Projects/Modvens/CAD/modvens/libraries/3dmodels/1-1734248-5.stp"
+    ],
+    "datasheets": [
+      "/home/ilinca/Documents/Projects/Modvens/CAD/modvens/libraries/metadata/How_To_Use_Models.pdf"
+    ],
+    "source_zip": "/home/ilinca/Documents/Projects/Modvens/CAD/modvens/libraries/source_zips/1-1734248-5_LIB_1-1734248-5.zip",
+    "metadata": null,
+    "3d_path_fix": {
+      "updated_footprints": [
+        "/home/ilinca/Documents/Projects/Modvens/CAD/modvens/libraries/Project_Components.pretty/117342485.kicad_mod"
+      ],
+      "skipped_footprints": [],
+      "available_models": [
+        "1-1734248-5.stp"
+      ],
+      "model_matches": [
+        {
+          "footprint": "/home/ilinca/Documents/Projects/Modvens/CAD/modvens/libraries/Project_Components.pretty/117342485.kicad_mod",
+          "model": "/home/ilinca/Documents/Projects/Modvens/CAD/modvens/libraries/3dmodels/1-1734248-5.stp",
+          "score": 10
+        }
+      ]
+    },
+    "library_table_update": {
+      "footprint_table_updated": false,
+      "symbol_tables_updated": [],
+      "symbol_tables_skipped": [
+        "/home/ilinca/Documents/Projects/Modvens/CAD/modvens/libraries/Project_Components.kicad_sym"
+      ]
+    },
+    "symbol_footprint_link": [
+      {
+        "symbol_library": "/home/ilinca/Documents/Projects/Modvens/CAD/modvens/libraries/Project_Components.kicad_sym",
+        "updated": true,
+        "symbol_name": "1-1734248-5",
+        "default_footprint": "Project_Components:117342485",
+        "footprint_filters": [
+          "Project_Components:117342485"
+        ],
+        "ki_fp_filters_value": "Project_Components:117342485",
+        "filter_mode": "exact",
+        "include_default_in_filters": true,
+        "available_footprints": [
+          "Project_Components:117342485"
+        ]
+      }
+    ],
+    "symbol_style_update": {
+      "symbol_library": "/home/ilinca/Documents/Projects/Modvens/CAD/modvens/libraries/Project_Components.kicad_sym",
+      "updated": true,
+      "styled_symbol_names": [
+        "1-1734248-5"
+      ],
+      "style": {
+        "line_width_mm": 0.254,
+        "line_color": "#840000",
+        "fill_mode": "kicad_default",
+        "fill_color": "#FFFFC2",
+        "font_size_mm": 1.27,
+        "pin_length_mm": 2.54,
+        "use_default_colors": true
+      }
+    },
+    "backups": [
+      "/home/ilinca/Documents/Projects/Modvens/CAD/modvens/libraries/backups/2026-11-15_23-30-18/libraries/Project_Components.kicad_sym",
+      "/home/ilinca/Documents/Projects/Modvens/CAD/modvens/libraries/backups/2026-11-15_23-30-18/libraries/Project_Components.kicad_sym",
+      "/home/ilinca/Documents/Projects/Modvens/CAD/modvens/libraries/backups/2026-11-15_23-30-18/libraries/Project_Components.kicad_sym",
+      "/home/ilinca/Documents/Projects/Modvens/CAD/modvens/libraries/backups/2026-11-15_23-30-18/libraries/Project_Components.pretty/117342485.kicad_mod",
+      "/home/ilinca/Documents/Projects/Modvens/CAD/modvens/libraries/backups/2026-11-15_23-30-18/fp-lib-table",
+      "/home/ilinca/Documents/Projects/Modvens/CAD/modvens/libraries/backups/2026-11-15_23-30-18/sym-lib-table"
+    ],
+    "skipped_existing": false,
+    "existing_assets": {
+      "already_exists": false,
+      "source_symbol_names": [
+        "1-1734248-5"
+      ],
+      "existing_footprints": []
+    }
+  }
+}
