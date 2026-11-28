@@ -59,3 +59,7 @@ The custom footprint `Project_Components:frekvens` (U1) mirrors the row of pads 
 - [ ] Assembly
 - [ ] Write the firmware
 - [ ] Test the firmware on the boards
+
+## References
+
+- [hlord2000/nordic-lib-kicad](https://github.com/hlord2000/nordic-lib-kicad) – KiCad library for Nordic Semiconductor parts

@@ -144,7 +144,7 @@
 			)
 		)
 		(property "Value" "Frekvens"
-			(at 9.3 -7.5 90)
+			(at -4.4 -11.4875 180)
 			(layer "F.Fab")
 			(uuid "71487cff-0170-4109-9573-ce6979308976")
 			(effects

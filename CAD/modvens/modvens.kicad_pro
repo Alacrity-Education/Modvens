@@ -678,17 +678,26 @@
     "top_level_sheets": [
       {
         "filename": "modvens.kicad_sch",
-        "name": "modvens",
+        "name": "modvens_interface",
         "uuid": "d182baa4-f515-4b0c-a5c9-352c710665d0"
+      },
+      {
+        "filename": "modvens_interface.kicad_sch",
+        "name": "modvens_main",
+        "uuid": "d46d54d5-ee47-480d-87f3-634db70dd667"
       }
     ],
-    "used_designators": "#PWR1-7,C1-16,J1,L1,TP1,U1",
+    "used_designators": "#PWR1-7,C1-16,J1,L1,TP1,U1-3",
     "variants": []
   },
   "sheets": [
     [
       "d182baa4-f515-4b0c-a5c9-352c710665d0",
-      "modvens"
+      "modvens_interface"
+    ],
+    [
+      "d46d54d5-ee47-480d-87f3-634db70dd667",
+      "modvens_main"
     ]
   ],
   "text_variables": {},
